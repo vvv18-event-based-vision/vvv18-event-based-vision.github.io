@@ -1,30 +1,25 @@
 {
     "tutorials": [         
         {
+            "name": "tutorial_event-driven-framework",
+            "url": "https://github.com/vvv-school/tutorial_event-driven-framework.git",
+            "score": 1
+        },
+        {
             "name": "tutorial_event-handling",
             "url": "https://github.com/vvv-school/tutorial_event-handling.git",
-            "score": 1
-        },
-        {
-            "name": "tutorial_event-driven-flow",
-            "url": "https://github.com/vvv-school/tutorial_event-optical-flow.git",
-            "score": 1
-        },
-        {
-            "name": "assignment_event-saliency-map",
-            "url": "https://github.com/vvv-school/assignment_event-saliency-map.git",
             "score": 1
         }
     ],
     "assignments": [
         {
-            "name": "assignment_event-spiking-model",
-            "url": "https://github.com/vvv-school/assignment_event-spiking-model.git",
+            "name": "assignment_event-saccadic-suppression",
+            "url": "https://github.com/vvv-schoolassignment_event-saccadic-suppression.git",
             "score": 3
         },
         {
-            "name": "assignment_event-orientation-filter",
-            "url": "https://github.com/vvv-school/assignment_event-orientation-filter.git",
+            "name": "assignment_event-spiking-attention",
+            "url": "https://github.com/vvv-school/assignment_event-spiking-attention.git",
             "score": 3
         }
     ]    
