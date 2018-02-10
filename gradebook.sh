@@ -23,4 +23,4 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 
-./helpers/scripts/gradebook.sh $org $team $curdir $curdir/build
+./helpers/scripts/gradebook.sh $org $team "$curdir" "$curdir"/build
