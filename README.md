@@ -57,9 +57,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-driven-framework-osm3000](https://github.com/vvv18-event-based-vision/tutorial_event-driven-framework-osm3000) | :white_check_mark: | **1** |
 | [tutorial_event-handling-osm3000](https://github.com/vvv18-event-based-vision/tutorial_event-handling-osm3000) | :white_check_mark: | **1** |
-| [assignment_event-saccadic-suppression-osm3000](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-osm3000) | :white_check_mark: | **1** |
+| [assignment_event-saccadic-suppression-osm3000](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-osm3000) | :white_check_mark: | **2** |
 
-![total score](https://img.shields.io/badge/total_score-3-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-4-brightgreen.svg?style=flat-square)
 
 ---
 
