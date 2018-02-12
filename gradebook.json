@@ -671,8 +671,8 @@
       {
         "name": "assignment_event-saccadic-suppression-fbottarel",
         "status": ":white_check_mark:",
-        "last_commit_date": "2018-02-12 15:01:46 UTC",
-        "score": 5
+        "last_commit_date": "2018-02-12 18:56:07 UTC",
+        "score": 3
       },
       {
         "name": "assignment_event-spiking-attention-fbottarel",
@@ -681,7 +681,7 @@
         "score": 1
       }
     ],
-    "score": 8
+    "score": 6
   },
   {
     "username": "nikmayr2",

@@ -313,10 +313,10 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-driven-framework-fbottarel](https://github.com/vvv18-event-based-vision/tutorial_event-driven-framework-fbottarel) | :white_check_mark: | **1** |
 | [tutorial_event-handling-fbottarel](https://github.com/vvv18-event-based-vision/tutorial_event-handling-fbottarel) | :white_check_mark: | **1** |
-| [assignment_event-saccadic-suppression-fbottarel](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-fbottarel) | :white_check_mark: | **5** |
+| [assignment_event-saccadic-suppression-fbottarel](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-fbottarel) | :white_check_mark: | **3** |
 | [assignment_event-spiking-attention-fbottarel](https://github.com/vvv18-event-based-vision/assignment_event-spiking-attention-fbottarel) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-8-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
 
 ---
 
