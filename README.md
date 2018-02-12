@@ -252,9 +252,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-driven-framework-marco-monforte](https://github.com/vvv18-event-based-vision/tutorial_event-driven-framework-marco-monforte) | :white_check_mark: | **1** |
 | [tutorial_event-handling-marco-monforte](https://github.com/vvv18-event-based-vision/tutorial_event-handling-marco-monforte) | :white_check_mark: | **1** |
-| [assignment_event-saccadic-suppression-marco-monforte](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-marco-monforte) | :white_check_mark: | **3** |
+| [assignment_event-saccadic-suppression-marco-monforte](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-marco-monforte) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
 
 ---
 
