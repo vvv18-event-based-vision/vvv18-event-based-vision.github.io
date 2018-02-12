@@ -57,10 +57,15 @@
         "name": "tutorial_event-driven-framework-ninja777",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_event-handling-ninja777",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [],
-    "score": 1
+    "score": 2
   },
   {
     "username": "osm3000",
