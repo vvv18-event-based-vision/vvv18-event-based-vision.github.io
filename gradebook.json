@@ -393,10 +393,15 @@
         "name": "tutorial_event-driven-framework-AbbasSidaoui",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_event-handling-AbbasSidaoui",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [],
-    "score": 1
+    "score": 2
   },
   {
     "username": "raedbsili1991",
