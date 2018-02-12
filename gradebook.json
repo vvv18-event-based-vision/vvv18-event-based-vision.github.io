@@ -340,9 +340,15 @@
   },
   {
     "username": "umgnunes",
-    "tutorials": [],
+    "tutorials": [
+      {
+        "name": "tutorial_event-driven-framework-umgnunes",
+        "status": ":white_check_mark:",
+        "score": 1
+      }
+    ],
     "assignments": [],
-    "score": 0
+    "score": 1
   },
   {
     "username": "samvinanzi",
