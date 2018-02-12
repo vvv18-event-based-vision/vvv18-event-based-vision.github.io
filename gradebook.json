@@ -383,10 +383,15 @@
         "name": "tutorial_event-driven-framework-samvinanzi",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_event-handling-samvinanzi",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [],
-    "score": 1
+    "score": 2
   },
   {
     "username": "AbbasSidaoui",
