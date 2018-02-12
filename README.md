@@ -200,9 +200,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-driven-framework-umgnunes](https://github.com/vvv18-event-based-vision/tutorial_event-driven-framework-umgnunes) | :white_check_mark: | **1** |
 | [tutorial_event-handling-umgnunes](https://github.com/vvv18-event-based-vision/tutorial_event-handling-umgnunes) | :white_check_mark: | **1** |
-| [assignment_event-saccadic-suppression-umgnunes](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-umgnunes) | :x: | **0** |
+| [assignment_event-saccadic-suppression-umgnunes](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-umgnunes) | :white_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
