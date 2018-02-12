@@ -119,10 +119,15 @@
         "name": "tutorial_event-driven-framework-mkthabet",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_event-handling-mkthabet",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [],
-    "score": 1
+    "score": 2
   },
   {
     "username": "Meylina",
