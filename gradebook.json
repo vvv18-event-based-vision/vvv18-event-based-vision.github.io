@@ -229,9 +229,15 @@
         "status": ":x:",
         "last_commit_date": "2018-02-12 07:48:40 UTC",
         "score": 3
+      },
+      {
+        "name": "assignment_event-spiking-attention-kosenhitatchi",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-12 07:49:22 UTC",
+        "score": 1
       }
     ],
-    "score": 2
+    "score": 3
   },
   {
     "username": "gonzalezJohnas",
