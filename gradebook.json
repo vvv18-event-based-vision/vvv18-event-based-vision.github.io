@@ -652,12 +652,12 @@
     "assignments": [
       {
         "name": "assignment_event-saccadic-suppression-yidiem",
-        "status": ":x:",
-        "last_commit_date": "2018-02-12 07:48:40 UTC",
-        "score": 3
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-12 15:32:54 UTC",
+        "score": 5
       }
     ],
-    "score": 2
+    "score": 7
   },
   {
     "username": "DonatiElisa",
