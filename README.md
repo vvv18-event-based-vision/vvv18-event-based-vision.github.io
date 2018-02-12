@@ -146,6 +146,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-driven-framework-jtalamini](https://github.com/vvv18-event-based-vision/tutorial_event-driven-framework-jtalamini) | :white_check_mark: | **1** |
 | [tutorial_event-handling-jtalamini](https://github.com/vvv18-event-based-vision/tutorial_event-handling-jtalamini) | :white_check_mark: | **1** |
+| [assignment_event-saccadic-suppression-jtalamini](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-jtalamini) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
