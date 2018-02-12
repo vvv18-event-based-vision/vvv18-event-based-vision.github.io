@@ -727,6 +727,12 @@
         "status": ":white_check_mark:",
         "last_commit_date": "2018-02-12 16:16:20 UTC",
         "score": 3
+      },
+      {
+        "name": "assignment_event-spiking-attention-science-code",
+        "status": ":x:",
+        "last_commit_date": "2018-02-12 07:49:22 UTC",
+        "score": 3
       }
     ],
     "score": 5
