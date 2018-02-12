@@ -35,6 +35,7 @@
 | [tutorial_event-driven-framework-prashanthr05](https://github.com/vvv18-event-based-vision/tutorial_event-driven-framework-prashanthr05) | :white_check_mark: | **1** |
 | [tutorial_event-handling-prashanthr05](https://github.com/vvv18-event-based-vision/tutorial_event-handling-prashanthr05) | :white_check_mark: | **1** |
 | [assignment_event-saccadic-suppression-prashanthr05](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-prashanthr05) | :white_check_mark: | **5** |
+| [assignment_event-spiking-attention-prashanthr05](https://github.com/vvv18-event-based-vision/assignment_event-spiking-attention-prashanthr05) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
 
