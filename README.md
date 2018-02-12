@@ -70,9 +70,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-driven-framework-mkthabet](https://github.com/vvv18-event-based-vision/tutorial_event-driven-framework-mkthabet) | :white_check_mark: | **1** |
 | [tutorial_event-handling-mkthabet](https://github.com/vvv18-event-based-vision/tutorial_event-handling-mkthabet) | :white_check_mark: | **1** |
-| [assignment_event-saccadic-suppression-mkthabet](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-mkthabet) | :x: | **0** |
+| [assignment_event-saccadic-suppression-mkthabet](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-mkthabet) | :white_check_mark: | **3** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
