@@ -327,6 +327,7 @@
 | [tutorial_event-driven-framework-nikmayr2](https://github.com/vvv18-event-based-vision/tutorial_event-driven-framework-nikmayr2) | :white_check_mark: | **1** |
 | [tutorial_event-handling-nikmayr2](https://github.com/vvv18-event-based-vision/tutorial_event-handling-nikmayr2) | :white_check_mark: | **1** |
 | [assignment_event-saccadic-suppression-nikmayr2](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-nikmayr2) | :x: | **0** |
+| [assignment_event-spiking-attention-nikmayr2](https://github.com/vvv18-event-based-vision/assignment_event-spiking-attention-nikmayr2) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
