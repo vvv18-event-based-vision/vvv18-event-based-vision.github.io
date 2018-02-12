@@ -192,6 +192,7 @@
 | [tutorial_event-driven-framework-JuanMiguelAlvarez](https://github.com/vvv18-event-based-vision/tutorial_event-driven-framework-JuanMiguelAlvarez) | :white_check_mark: | **1** |
 | [tutorial_event-handling-JuanMiguelAlvarez](https://github.com/vvv18-event-based-vision/tutorial_event-handling-JuanMiguelAlvarez) | :white_check_mark: | **1** |
 | [assignment_event-saccadic-suppression-JuanMiguelAlvarez](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-JuanMiguelAlvarez) | :x: | **0** |
+| [assignment_event-spiking-attention-JuanMiguelAlvarez](https://github.com/vvv18-event-based-vision/assignment_event-spiking-attention-JuanMiguelAlvarez) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
