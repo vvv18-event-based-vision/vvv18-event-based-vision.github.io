@@ -222,7 +222,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_event-saccadic-suppression-anqingd",
+        "status": ":x:",
+        "last_commit_date": "",
+        "score": 3
+      }
+    ],
     "score": 2
   },
   {
