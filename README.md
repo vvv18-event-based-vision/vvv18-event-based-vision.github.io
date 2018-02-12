@@ -91,9 +91,9 @@
 | [tutorial_event-driven-framework-Meylina](https://github.com/vvv18-event-based-vision/tutorial_event-driven-framework-Meylina) | :white_check_mark: | **1** |
 | [tutorial_event-handling-Meylina](https://github.com/vvv18-event-based-vision/tutorial_event-handling-Meylina) | :white_check_mark: | **1** |
 | [assignment_event-saccadic-suppression-Meylina](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-Meylina) | :white_check_mark: | **5** |
-| [assignment_event-spiking-attention-Meylina](https://github.com/vvv18-event-based-vision/assignment_event-spiking-attention-Meylina) | :x: | **0** |
+| [assignment_event-spiking-attention-Meylina](https://github.com/vvv18-event-based-vision/assignment_event-spiking-attention-Meylina) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-8-brightgreen.svg?style=flat-square)
 
 ---
 
