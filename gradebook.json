@@ -102,7 +102,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_event-saccadic-suppression-osm3000",
+        "status": ":x:",
+        "last_commit_date": "2018-02-12 07:48:40 UTC",
+        "score": 3
+      }
+    ],
     "score": 2
   },
   {
