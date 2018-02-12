@@ -510,8 +510,15 @@
         "score": 1
       }
     ],
-    "assignments": [],
-    "score": 2
+    "assignments": [
+      {
+        "name": "assignment_event-saccadic-suppression-UgoVollhardt",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-12 14:33:47 UTC",
+        "score": 3
+      }
+    ],
+    "score": 5
   },
   {
     "username": "fbottarel",
