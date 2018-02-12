@@ -273,12 +273,12 @@
     "assignments": [
       {
         "name": "assignment_event-saccadic-suppression-jtalamini",
-        "status": ":x:",
-        "last_commit_date": "2018-02-12 07:48:40 UTC",
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-12 15:16:29 UTC",
         "score": 3
       }
     ],
-    "score": 2
+    "score": 5
   },
   {
     "username": "Rayne91",
