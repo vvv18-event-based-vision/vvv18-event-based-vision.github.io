@@ -731,8 +731,8 @@
       {
         "name": "assignment_event-saccadic-suppression-science-code",
         "status": ":white_check_mark:",
-        "last_commit_date": "2018-02-12 16:16:20 UTC",
-        "score": 3
+        "last_commit_date": "2018-02-12 16:21:00 UTC",
+        "score": 5
       },
       {
         "name": "assignment_event-spiking-attention-science-code",
@@ -741,7 +741,7 @@
         "score": 3
       }
     ],
-    "score": 5
+    "score": 7
   },
   {
     "username": "yidiem",
