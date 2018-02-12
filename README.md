@@ -49,9 +49,9 @@
 | [tutorial_event-driven-framework-ninja777](https://github.com/vvv18-event-based-vision/tutorial_event-driven-framework-ninja777) | :white_check_mark: | **1** |
 | [tutorial_event-handling-ninja777](https://github.com/vvv18-event-based-vision/tutorial_event-handling-ninja777) | :white_check_mark: | **1** |
 | [assignment_event-saccadic-suppression-ninja777](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-ninja777) | :white_check_mark: | **5** |
-| [assignment_event-spiking-attention-ninja777](https://github.com/vvv18-event-based-vision/assignment_event-spiking-attention-ninja777) | :x: | **0** |
+| [assignment_event-spiking-attention-ninja777](https://github.com/vvv18-event-based-vision/assignment_event-spiking-attention-ninja777) | :white_check_mark: | **1** |
 
-![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-8-brightgreen.svg?style=flat-square)
 
 ---
 
