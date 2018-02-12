@@ -109,6 +109,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_event-driven-framework-gonzalezJohnas](https://github.com/vvv18-event-based-vision/tutorial_event-driven-framework-gonzalezJohnas) | :white_check_mark: | **1** |
 | [tutorial_event-handling-gonzalezJohnas](https://github.com/vvv18-event-based-vision/tutorial_event-handling-gonzalezJohnas) | :white_check_mark: | **1** |
+| [assignment_event-saccadic-suppression-gonzalezJohnas](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-gonzalezJohnas) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 

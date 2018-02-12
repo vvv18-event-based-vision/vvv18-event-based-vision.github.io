@@ -198,7 +198,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_event-saccadic-suppression-gonzalezJohnas",
+        "status": ":x:",
+        "last_commit_date": "2018-02-12 07:48:40 UTC",
+        "score": 3
+      }
+    ],
     "score": 2
   },
   {
