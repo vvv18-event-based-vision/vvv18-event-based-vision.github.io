@@ -15,7 +15,11 @@
 
 ### [**PCH313**](https://github.com/PCH313) grade
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [tutorial_event-driven-framework-PCH313](https://github.com/vvv18-event-based-vision/tutorial_event-driven-framework-PCH313) | :white_check_mark: | **1** |
+
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 
