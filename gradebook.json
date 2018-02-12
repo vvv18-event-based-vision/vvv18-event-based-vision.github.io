@@ -490,9 +490,9 @@
     "assignments": [
       {
         "name": "assignment_event-saccadic-suppression-samvinanzi",
-        "status": ":x:",
-        "last_commit_date": "2018-02-12 16:42:47 UTC",
-        "score": 3
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-12 17:04:06 UTC",
+        "score": 5
       },
       {
         "name": "assignment_event-spiking-attention-samvinanzi",
@@ -501,7 +501,7 @@
         "score": 3
       }
     ],
-    "score": 2
+    "score": 7
   },
   {
     "username": "AbbasSidaoui",
