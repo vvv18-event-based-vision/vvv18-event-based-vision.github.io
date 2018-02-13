@@ -146,9 +146,9 @@
 | [tutorial_event-driven-framework-ericpairet](https://github.com/vvv18-event-based-vision/tutorial_event-driven-framework-ericpairet) | :white_check_mark: | **1** |
 | [tutorial_event-handling-ericpairet](https://github.com/vvv18-event-based-vision/tutorial_event-handling-ericpairet) | :white_check_mark: | **1** |
 | [assignment_event-saccadic-suppression-ericpairet](https://github.com/vvv18-event-based-vision/assignment_event-saccadic-suppression-ericpairet) | :white_check_mark: | **5** |
-| [assignment_event-spiking-attention-ericpairet](https://github.com/vvv18-event-based-vision/assignment_event-spiking-attention-ericpairet) | :white_check_mark: | **1** |
+| [assignment_event-spiking-attention-ericpairet](https://github.com/vvv18-event-based-vision/assignment_event-spiking-attention-ericpairet) | :white_check_mark: | **6** |
 
-![total score](https://img.shields.io/badge/total_score-8-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-13-brightgreen.svg?style=flat-square)
 
 ---
 
