@@ -790,9 +790,9 @@
     "assignments": [
       {
         "name": "assignment_event-saccadic-suppression-DonatiElisa",
-        "status": ":x:",
-        "last_commit_date": "2018-02-12 07:48:40 UTC",
-        "score": 3
+        "status": ":white_check_mark:",
+        "last_commit_date": "2018-02-13 08:18:35 UTC",
+        "score": 5
       },
       {
         "name": "assignment_event-spiking-attention-DonatiElisa",
@@ -801,6 +801,6 @@
         "score": 3
       }
     ],
-    "score": 2
+    "score": 7
   }
 ]
